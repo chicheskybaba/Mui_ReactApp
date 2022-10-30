@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mui_ReactApp/static/css/main.6433d7cb.css",
+    "main.js": "/Mui_ReactApp/static/js/main.38fe10fe.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Mui_ReactApp/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/Mui_ReactApp/index.html",
+    "main.6433d7cb.css.map": "/Mui_ReactApp/static/css/main.6433d7cb.css.map",
+    "main.38fe10fe.js.map": "/Mui_ReactApp/static/js/main.38fe10fe.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Mui_ReactApp/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6433d7cb.css",
+    "static/js/main.38fe10fe.js"
+  ]
+}
